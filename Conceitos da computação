@@ -8,5 +8,6 @@ Conceitos de Computação
 	4. Sistema de Arquivos: Um sistema de arquivos é uma maneira de organizar e armazenar arquivos em dispositivos de armazenamento. Ele define como os dados são nomeados, armazenados e recuperados. Os sistemas de arquivos também gerenciam a alocação de espaço em disco e as permissões de acesso a arquivos e diretórios. Exemplos comuns incluem NTFS (Windows), HFS+ (macOS) e ext4 (Linux). Um sistema de arquivos eficiente é crucial para a performance e a integridade dos dados armazenados. Referência: Bach, M. J. (1986). The Design of the UNIX Operating System. Prentice Hall.
 
 	5. Inteligência Artificial (IA): A inteligência artificial é um ramo da computação que se propõe a criar sistemas capazes de executar tarefas que normalmente requerem inteligência humana, como reconhecimento de fala, tomada de decisão, tradução de idiomas e reconhecimento de imagem. Existem diversas abordagens na IA, incluindo aprendizado de máquina (máquinas que aprendem com dados), redes neurais artificiais e algoritmos genéticos. A IA está transformando setores como saúde, finanças e transporte, oferecendo soluções inovadoras e aumentando a eficiência. Referência: Russell, S. J. & Norvig, P. (2016). Artificial Intelligence: A Modern Approach. Pearson.
-	
+       
+        6. 
 	Esses conceitos são fundamentais para compreender a infraestrutura e as tecnologias que sustentam a computação moderna. Quanto mais se avança no campo da tecnologia, mais interconectados esses elementos se tornam, formando a base para inovações e soluções futuras.
