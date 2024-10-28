@@ -1,0 +1,33 @@
+1- Bubble Sort em Python:
+python
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        # Flag para otimização
+        swapped = False
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]  # Troca
+                swapped = True
+        if not swapped:  # Se não houve troca, a lista já está ordenada
+            break
+    return arr
+
+# Exemplo de uso
+lista = [64, 34, 25, 12, 22, 11, 90]
+resultado = bubble_sort(lista)
+print("Lista ordenada:", resultado)
+
+2- Imprimir apenas as vogais de uma palavra ou frase:
+python
+
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = ''.join([char for char in texto if char in vogais])
+    return resultado
+
+# Exemplo de uso
+frase = "Olá, como você está?"
+resultado_vogais = imprimir_vogais(frase)
+print("Vogais encontradas:", resultado_vogais)
