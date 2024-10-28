@@ -1,0 +1,12 @@
+Imprimir apenas as vogais de uma palavra ou frase:
+python
+
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = ''.join([char for char in texto if char in vogais])
+    return resultado
+
+# Exemplo de uso
+frase = "Olá, como você está?"
+resultado_vogais = imprimir_vogais(frase)
+print("Vogais encontradas:", resultado_vogais)
