@@ -1,0 +1,35 @@
+1. Python
+Descrição: Python é uma linguagem de programação de alto nível, conhecida pela sua simplicidade e legibilidade. É amplamente utilizada em ciência de dados, automação, desenvolvimento web, e inteligência artificial.
+
+Código Mínimo:
+python
+# Código em Python
+print("Olá, Mundo!")
+Resultado Esperado: Ao executar este código, a saída seria Olá, Mundo!.
+
+2. Java
+Descrição: Java é uma linguagem de programação orientada a objetos que é amplamente utilizada em desenvolvimento de aplicativos corporativos, aplicativos móveis (Android) e sistemas em larga escala. É conhecida por sua portabilidade, já que o código Java é executado na Java Virtual Machine (JVM).
+
+Código Mínimo:
+java
+// Código em Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+Resultado Esperado: Após compilar e executar este código, a saída também seria Olá, Mundo!.
+
+3. JavaScript
+Descrição: JavaScript é uma linguagem de programação de script que é usada principalmente para desenvolvimento web, permitindo criar conteúdo interativo e dinâmico em páginas da web. É executado no navegador do cliente e é fundamental para o desenvolvimento frontend.
+
+Código Mínimo:
+javascript
+// Código em JavaScript
+console.log("Olá, Mundo!");
+Resultado Esperado: Ao executar este código em um console do navegador ou em um ambiente Node.js, a saída seria Olá, Mundo!.
+
+Resumo das Diferenças:
+Sintaxe e Simplicidade: Python é conhecido pela sua sintaxe simples e legível, enquanto Java tem uma sintaxe mais rigorosa devido à sua natureza orientada a objetos. JavaScript, apesar de também ser orientado a objetos, é mais flexível e dinâmico.
+Aplicações: Python é amplamente utilizado em Ciência de Dados e Inteligência Artificial, Java é popular em aplicações corporativas e móveis, e JavaScript é essencial para o desenvolvimento web.
+Execução: Python e Java são executados em ambientes locais (interpretados e compilados, respectivamente), enquanto JavaScript é executado principalmente em navegadores, permitindo interatividade na web.
